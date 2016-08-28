@@ -1,0 +1,9 @@
+baseurl: "http://ladrift.github.io/"
+languageCode: "zh-cn"
+title: "ladrift"
+
+Params:
+    Author: "Ziyi Yan"
+    Description: "Code, thoughts and life."
+    GithubUser: "ladrift"
+    Email: "cxfyzy@gmail.com"
