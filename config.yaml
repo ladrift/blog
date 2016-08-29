@@ -1,6 +1,7 @@
 baseurl: "https://ladrift.github.io/"
 languageCode: "zh-cn"
 title: "ladrift"
+theme: "gindoro"
 
 Params:
     Author: "Ziyi Yan"
