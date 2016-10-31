@@ -5,6 +5,9 @@ title: "About me"
 
 ---
 
-Hello, world. I am ladrift.
+Hello, world.
 
-我是严子怡。
+I am Ziyi Yan, a.k.a [ladrift][gh], an under-graduated student from [Huazhong University of Science & Technology][hust].
+
+[hust]: http://www.hust.edu.cn/
+[gh]: https://github.com/ladrift
