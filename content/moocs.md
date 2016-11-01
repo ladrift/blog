@@ -5,7 +5,7 @@ menu = "main"
 weight = 1
 
 +++
-Here are all MOOCs or open-courseware courses I have leart or learning.
+Here are all MOOCs or open-courseware courses I have learned or learning.
 
 2016 (second half year):
 
