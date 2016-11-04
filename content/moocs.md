@@ -10,7 +10,7 @@ Here are all MOOCs or open-courseware courses I have learned or learning.
 2016 (second half year):
 
 - Programming Language
-    - [Part 1][COURSERA-PL-P1] (WIP...)
+    - [Part 1][COURSERA-PL-P1] ([Certificate](https://www.coursera.org/account/accomplishments/certificate/LFHUP6MQ734P))
     - [Part 2][COURSERA-PL-P2] (WIP...)
     - [Part 3][COURSERA-PL-P3] (WIP...)
 - [Cloud Computing][cc]
@@ -51,6 +51,7 @@ MIT:
 CMU:
 
 - [Distributed Systems][CMU-15-440] ([2014 fall version][CMU-15-440-2014-fall])
+- [Introduction to Computer Systems (CS:APP)][cmu-ics]
 
 Harvard:
 
@@ -82,3 +83,4 @@ Illinois:
 [sc-java]: https://www.edx.org/course/software-construction-java-mitx-6-005-1x#!
 [asc-java]: https://www.edx.org/course/advanced-software-construction-java-mitx-6-005-2x#!
 [rp]: http://cis198-2016s.github.io/ 
+[cmu-ics]: http://www.cs.cmu.edu/~213/
