@@ -7,10 +7,15 @@ weight = 1
 +++
 Here are all MOOCs or open-courseware courses I have learned or learning.
 
-2016 (second half year):
+2016:
+
+- Ruby on Rails Development
+    - [Ruby on Rails: An Introduction][ror-intro] ([certificate](https://www.coursera.org/account/accomplishments/certificate/N98NLVBF9UYY))
+    - [Rails with Active Record][ror-active-record] ([certificate](https://www.coursera.org/account/accomplishments/certificate/TBASBKBF6Q8M))
+
 
 - Programming Language
-    - [Part 1][COURSERA-PL-P1] ([Certificate](https://www.coursera.org/account/accomplishments/certificate/LFHUP6MQ734P))
+    - [Part 1][COURSERA-PL-P1] ([certificate](https://www.coursera.org/account/accomplishments/certificate/LFHUP6MQ734P))
     - [Part 2][COURSERA-PL-P2] (WIP...)
     - [Part 3][COURSERA-PL-P3] (WIP...)
 - [Cloud Computing][cc]
@@ -61,9 +66,9 @@ Illinois:
 
 - [Distributed Systems (CS 425 : ECE 428)][ds-cs425-ece-428]
 
-[COURSERA-PL-P1]: https://www.coursera.org/learn/programming-languages/home/welcome
-[COURSERA-PL-P2]: https://www.coursera.org/learn/programming-languages-part-b/home/welcome
-[COURSERA-PL-P3]: https://www.coursera.org/learn/programming-languages-part-c/home/welcome
+[COURSERA-PL-P1]: https://www.coursera.org/learn/programming-languages
+[COURSERA-PL-P2]: https://www.coursera.org/learn/programming-languages-part-b
+[COURSERA-PL-P3]: https://www.coursera.org/learn/programming-languages-part-c
 
 [MIT-6.828]: https://pdos.csail.mit.edu/6.828/2016/index.html
 [MIT-6.824]: https://pdos.csail.mit.edu/6.824/
@@ -78,9 +83,12 @@ Illinois:
 [oojp]: https://www.coursera.org/specializations/java-object-oriented
 [cs152-pl-16sp]: http://www.seas.harvard.edu/courses/cs152/2016sp/
 [ds-cs425-ece-428]: https://courses.engr.illinois.edu/cs425/fa2016/index.html
-[ni]: https://www.coursera.org/learn/networks-illustrated/home/welcome
-[fmb]: https://www.coursera.org/learn/friends-money-bytes/home/welcome
+[ni]: https://www.coursera.org/learn/networks-illustrated
+[fmb]: https://www.coursera.org/learn/friends-money-bytes
 [sc-java]: https://www.edx.org/course/software-construction-java-mitx-6-005-1x#!
 [asc-java]: https://www.edx.org/course/advanced-software-construction-java-mitx-6-005-2x#!
 [rp]: http://cis198-2016s.github.io/ 
 [cmu-ics]: http://www.cs.cmu.edu/~213/
+
+[ror-intro]: https://www.coursera.org/learn/ruby-on-rails-intro
+[ror-active-record]: https://www.coursera.org/learn/rails-with-active-record
