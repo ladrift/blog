@@ -13,17 +13,13 @@ Here are all MOOCs or open-courseware courses I have learned or learning.
     - [Ruby on Rails: An Introduction][ror-intro] ([certificate](https://www.coursera.org/account/accomplishments/certificate/N98NLVBF9UYY))
     - [Rails with Active Record][ror-active-record] ([certificate](https://www.coursera.org/account/accomplishments/certificate/TBASBKBF6Q8M))
 
-
 - Programming Language
     - [Part 1][COURSERA-PL-P1] ([certificate](https://www.coursera.org/account/accomplishments/certificate/LFHUP6MQ734P))
     - [Part 2][COURSERA-PL-P2] (WIP...)
     - [Part 3][COURSERA-PL-P3] (WIP...)
-- [Cloud Computing][cc]
-    - Cloud Computing Concept
-        - [Part 1][cc-p1] (WIP...)
 
-- [Networks Illustrated][ni] (WIP...)
-- [Friends, Money and Bytes][fmb] (WIP...)
+- Cloud Computing Concept
+    - [Part 1][cc-p1] ([certificate](https://www.coursera.org/account/accomplishments/certificate/ACESNVQBPL2T))
 
 ========================================
 
