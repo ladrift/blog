@@ -15,11 +15,12 @@ Here are all MOOCs or open-courseware courses I have learned or learning.
 
 - Programming Language
     - [Part 1][COURSERA-PL-P1] ([certificate](https://www.coursera.org/account/accomplishments/certificate/LFHUP6MQ734P))
-    - [Part 2][COURSERA-PL-P2] (WIP...)
+    - [Part 2][COURSERA-PL-P2] ([certificate](https://www.coursera.org/account/accomplishments/certificate/T9TJPH8RTA9X))
     - [Part 3][COURSERA-PL-P3] (WIP...)
 
 - Cloud Computing Concept
     - [Part 1][cc-p1] ([certificate](https://www.coursera.org/account/accomplishments/certificate/ACESNVQBPL2T))
+    - [Part 2][cc-p2] (WIP...)
 
 ========================================
 
@@ -74,7 +75,8 @@ Illinois:
 [CMU-15-440-2014-fall]: https://www.cs.cmu.edu/~dga/15-440/S14/index.html
 
 [cc]: https://www.coursera.org/specializations/cloud-computing
-[cc-p1]: https://www.coursera.org/learn/cloud-computing/home/welcome
+[cc-p1]: https://www.coursera.org/learn/cloud-computing
+[cc-p2]: https://www.coursera.org/learn/cloud-computing-2
 [jp]: https://www.coursera.org/specializations/java-programming
 [oojp]: https://www.coursera.org/specializations/java-object-oriented
 [cs152-pl-16sp]: http://www.seas.harvard.edu/courses/cs152/2016sp/
