@@ -63,6 +63,11 @@ Illinois:
 
 - [Distributed Systems (CS 425 : ECE 428)][ds-cs425-ece-428]
 
+Stanford:
+
+- [CS 261: A Second Course in Algorithms][cs261-second-algo]
+- [CS 168: The Modern Algorithmic Toolbox][cs168-modern-algo-toolbox]
+
 [COURSERA-PL-P1]: https://www.coursera.org/learn/programming-languages
 [COURSERA-PL-P2]: https://www.coursera.org/learn/programming-languages-part-b
 [COURSERA-PL-P3]: https://www.coursera.org/learn/programming-languages-part-c
@@ -90,3 +95,5 @@ Illinois:
 
 [ror-intro]: https://www.coursera.org/learn/ruby-on-rails-intro
 [ror-active-record]: https://www.coursera.org/learn/rails-with-active-record
+[cs261-second-algo]: http://theory.stanford.edu/~tim/w16/w16.html
+[cs168-modern-algo-toolbox]: http://web.stanford.edu/class/cs168/index.html
