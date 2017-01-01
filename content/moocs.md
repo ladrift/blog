@@ -16,7 +16,7 @@ Here are all MOOCs or open-courseware courses I have learned or learning.
 - Programming Language
     - [Part 1][COURSERA-PL-P1] ([certificate](https://www.coursera.org/account/accomplishments/certificate/LFHUP6MQ734P))
     - [Part 2][COURSERA-PL-P2] ([certificate](https://www.coursera.org/account/accomplishments/certificate/T9TJPH8RTA9X))
-    - [Part 3][COURSERA-PL-P3] (WIP...)
+    - [Part 3][COURSERA-PL-P3] ([certificate](https://www.coursera.org/account/accomplishments/certificate/7JH8PBYXX5Q8))
 
 - Cloud Computing Concept
     - [Part 1][cc-p1] ([certificate](https://www.coursera.org/account/accomplishments/certificate/ACESNVQBPL2T))
