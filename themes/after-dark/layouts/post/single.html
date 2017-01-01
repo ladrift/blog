@@ -1,0 +1,17 @@
+{{ define "title" -}}
+  {{ .Title }} &ndash; {{ .Site.Title }}
+{{- end }}
+{{ define "header" }}
+  {{ partial "menu" . }}
+{{ end }}
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+{{ end }}
+{{ define "footer" }}
+  <hr>
+  {{ partial "post/byline" . }}
+  {{ partial "post/related-posts" . }}
+  {{ partial "powered-by" . }}
+  {{ partial "license" . }}
+{{ end }}
