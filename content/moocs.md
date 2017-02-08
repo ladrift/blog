@@ -68,6 +68,11 @@ Stanford:
 - [CS 261: A Second Course in Algorithms][cs261-second-algo]
 - [CS 168: The Modern Algorithmic Toolbox][cs168-modern-algo-toolbox]
 
+## English Skill
+
+- [Business Engilish for Non-native Speakers](https://www.coursera.org/specializations/business-english-speakers)
+- [English Interview and Resume Writing](https://www.coursera.org/specializations/english-interview-resume)
+
 [COURSERA-PL-P1]: https://www.coursera.org/learn/programming-languages
 [COURSERA-PL-P2]: https://www.coursera.org/learn/programming-languages-part-b
 [COURSERA-PL-P3]: https://www.coursera.org/learn/programming-languages-part-c
