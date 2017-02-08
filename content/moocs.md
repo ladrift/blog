@@ -20,7 +20,7 @@ Here are all MOOCs or open-courseware courses I have learned or learning.
 
 - Cloud Computing Concept
     - [Part 1][cc-p1] ([certificate](https://www.coursera.org/account/accomplishments/certificate/ACESNVQBPL2T))
-    - [Part 2][cc-p2] (WIP...)
+    - [Part 2][cc-p2] ([certificate](https://www.coursera.org/account/accomplishments/certificate/7JH8PBYXX5Q8))
 
 ========================================
 
