@@ -22,6 +22,9 @@ Here are all MOOCs or open-courseware courses I have learned or learning.
     - [Part 1][cc-p1] ([certificate](https://www.coursera.org/account/accomplishments/certificate/ACESNVQBPL2T))
     - [Part 2][cc-p2] ([certificate](https://www.coursera.org/account/accomplishments/certificate/7JH8PBYXX5Q8))
 
+- [Object Oriented Java Programming][oojp]
+    - [Object Oriented Programming in Java][oojp-1] ([certificate](https://www.coursera.org/account/accomplishments/certificate/4BJHSSQMR59E))
+
 ========================================
 
 *TODO* courses:
@@ -68,6 +71,11 @@ Stanford:
 - [CS 261: A Second Course in Algorithms][cs261-second-algo]
 - [CS 168: The Modern Algorithmic Toolbox][cs168-modern-algo-toolbox]
 
+## Distributed Systems
+
+- [452: Distributed Systems][uw-ds]
+- [CSS 434: Parallel and Distributed Computing][uw-pdc]
+
 ## English Skill
 
 - [Business Engilish for Non-native Speakers](https://www.coursera.org/specializations/business-english-speakers)
@@ -89,6 +97,7 @@ Stanford:
 [cc-p2]: https://www.coursera.org/learn/cloud-computing-2
 [jp]: https://www.coursera.org/specializations/java-programming
 [oojp]: https://www.coursera.org/specializations/java-object-oriented
+[oojp-1]: https://www.coursera.org/learn/object-oriented-java
 [cs152-pl-16sp]: http://www.seas.harvard.edu/courses/cs152/2016sp/
 [ds-cs425-ece-428]: https://courses.engr.illinois.edu/cs425/fa2016/index.html
 [ni]: https://www.coursera.org/learn/networks-illustrated
@@ -102,3 +111,5 @@ Stanford:
 [ror-active-record]: https://www.coursera.org/learn/rails-with-active-record
 [cs261-second-algo]: http://theory.stanford.edu/~tim/w16/w16.html
 [cs168-modern-algo-toolbox]: http://web.stanford.edu/class/cs168/index.html
+[uw-ds]: https://gitlab.cs.washington.edu/iyzhang/452-labs
+[uw-pdc]: http://courses.washington.edu/css434/syllabi/s16.html
