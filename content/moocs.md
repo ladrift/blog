@@ -81,6 +81,10 @@ Stanford:
 - [Business Engilish for Non-native Speakers](https://www.coursera.org/specializations/business-english-speakers)
 - [English Interview and Resume Writing](https://www.coursera.org/specializations/english-interview-resume)
 
+## Functional Programming
+
+- [DelftX: FP101x Introduction to Functional Programming][fp101x]
+
 [COURSERA-PL-P1]: https://www.coursera.org/learn/programming-languages
 [COURSERA-PL-P2]: https://www.coursera.org/learn/programming-languages-part-b
 [COURSERA-PL-P3]: https://www.coursera.org/learn/programming-languages-part-c
@@ -113,3 +117,4 @@ Stanford:
 [cs168-modern-algo-toolbox]: http://web.stanford.edu/class/cs168/index.html
 [uw-ds]: https://gitlab.cs.washington.edu/iyzhang/452-labs
 [uw-pdc]: http://courses.washington.edu/css434/syllabi/s16.html
+[fp101x]: https://github.com/fptudelft/FP101x-Content-2015
