@@ -5,9 +5,6 @@ menu = "main"
 weight = 1
 
 +++
-Here are all MOOCs or open-courseware courses I have learned or learning.
-
-2016:
 
 - Ruby on Rails Development
     - [Ruby on Rails: An Introduction][ror-intro] ([certificate](https://www.coursera.org/account/accomplishments/certificate/N98NLVBF9UYY))
@@ -85,6 +82,11 @@ Stanford:
 
 - [DelftX: FP101x Introduction to Functional Programming][fp101x]
 
+## Neural Networks and Deep Learning
+
+- [Neural Network and Deep Learning (website)][nn-dl]
+- [CS231n: Convolutional Neural Networks for Visual Recognition][cs231n-cnn]
+
 [COURSERA-PL-P1]: https://www.coursera.org/learn/programming-languages
 [COURSERA-PL-P2]: https://www.coursera.org/learn/programming-languages-part-b
 [COURSERA-PL-P3]: https://www.coursera.org/learn/programming-languages-part-c
@@ -118,3 +120,5 @@ Stanford:
 [uw-ds]: https://gitlab.cs.washington.edu/iyzhang/452-labs
 [uw-pdc]: http://courses.washington.edu/css434/syllabi/s16.html
 [fp101x]: https://github.com/fptudelft/FP101x-Content-2015
+[nn-dl]: http://neuralnetworksanddeeplearning.com/
+[cs231n-cnn]: http://cs231n.github.io/
