@@ -22,6 +22,8 @@ weight = 1
 - [Object Oriented Java Programming][oojp]
     - [Object Oriented Programming in Java][oojp-1] ([certificate](https://www.coursera.org/account/accomplishments/certificate/4BJHSSQMR59E))
 
+- [6.005: Software Construction][6005-sc]
+
 ========================================
 
 *TODO* courses:
@@ -122,3 +124,4 @@ Stanford:
 [fp101x]: https://github.com/fptudelft/FP101x-Content-2015
 [nn-dl]: http://neuralnetworksanddeeplearning.com/
 [cs231n-cnn]: http://cs231n.github.io/
+[6005-sc]: http://web.mit.edu/6.005/www/fa16/
